@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: coral;
+
+font-size: medium;
+font-family: 'Redressed', cursive
+}
+.header_div{
+    background: white;
+    color: rgb(3, 247, 234);
+}
+.header_div p{
+    color: #000;
+    letter-spacing: 2px;
+    font-weight:bolder ;
+    
+}
+.main_div button{
+    margin-top: 30px;
+width: 130px;
+letter-spacing: 3px;
+font-weight: bolder;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(200, 255, 1);
+    background-color: white;
+bottom: 0;
+width: 100%;
+line-height: 18px;
+text-shadow: 5px 5px 5px teal;
+
+}
